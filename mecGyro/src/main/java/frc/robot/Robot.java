@@ -13,7 +13,7 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 /**
  * This is a sample program that uses mecanum drive with a gyro sensor to
  * maintain rotation vectorsin relation to the starting orientation of the robot
- * (field-oriented controls).
+ * (field-oriented controls). 
  */
 public class Robot extends TimedRobot {
   // gyro calibration constant, may need to be adjusted;
